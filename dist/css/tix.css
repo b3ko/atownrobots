@@ -1,0 +1,57 @@
+.nav-push {
+  padding-top: 70px;
+  text-align: center;
+}
+
+#container {
+	width: 820px;
+	margin: 0 auto;
+}
+
+#clock {
+	height: 230px;
+	background-color: #CCCCCC;
+	margin: 0 auto;
+}
+
+.digit {
+	float: left;
+	height: 250px;
+	margin: 0 auto;
+}
+
+.pix {
+	width: 50px;
+	height: 50px;
+	border-radius: 5px;
+	margin: 7.5px 7.5px;
+	float: left;
+	background-color: #666666;
+}
+
+.spacer {
+	width: 20px;
+	float: left;
+	margin: 0 auto;
+	height: 200px;
+}
+
+#hrten {
+	width: 100px;
+	padding: 15px;
+}
+
+#hrone {
+	width: 225px;
+	padding: 15px;
+}
+
+#minten {
+	width: 170px;
+	padding: 15px;
+}
+
+#minone {
+	width: 225px;
+	padding: 15px;
+}
