@@ -1,0 +1,26 @@
+.nav-push {
+  padding-top: 70px;
+  text-align: center;
+}
+
+.nav-push.left {
+	text-align: left;
+}
+
+.wedding{
+	background-color: rgba(245,140,80,.50);
+	background-image: url('bg.png');
+}
+
+.tweed{
+	background-image: url('tweed.png');
+	color: white;
+}
+
+.wash{
+	background-image: url('grey_wash_wall.png');
+}
+
+.cream{
+	background-image: url('cream_pixels.png');
+}
